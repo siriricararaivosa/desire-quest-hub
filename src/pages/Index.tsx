@@ -13,7 +13,7 @@ const Index = () => {
           <div className="flex items-center gap-2">
             <Heart className="w-8 h-8 text-primary" />
             <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent">
-              LoveConnect
+              PassionHub
             </h1>
           </div>
           <nav className="hidden md:flex items-center gap-6">
@@ -81,7 +81,7 @@ const Index = () => {
       <section id="features" className="py-20 px-4 bg-card/50">
         <div className="container mx-auto">
           <div className="text-center mb-16">
-            <h3 className="text-3xl font-bold mb-4">Por que escolher o LoveConnect?</h3>
+            <h3 className="text-3xl font-bold mb-4">Por que escolher o PassionHub?</h3>
             <p className="text-muted-foreground max-w-2xl mx-auto">
               Oferecemos a melhor experiência em relacionamentos online com recursos únicos
             </p>
@@ -183,10 +183,10 @@ const Index = () => {
         <div className="container mx-auto">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <div className="flex items-center gap-2 mb-4">
-                <Heart className="w-6 h-6 text-primary" />
-                <span className="font-bold text-lg">LoveConnect</span>
-              </div>
+            <div className="flex items-center gap-2 mb-4">
+              <Heart className="w-6 h-6 text-primary" />
+              <span className="font-bold text-lg">PassionHub</span>
+            </div>
               <p className="text-muted-foreground text-sm">
                 A plataforma de relacionamentos mais confiável do Brasil.
               </p>
@@ -221,7 +221,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-border mt-8 pt-8 text-center text-sm text-muted-foreground">
-            © 2024 LoveConnect. Todos os direitos reservados.
+            © 2024 PassionHub. Todos os direitos reservados.
           </div>
         </div>
       </footer>
